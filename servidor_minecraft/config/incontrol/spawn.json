@@ -1,0 +1,10 @@
+[{
+  "dimension": "minecraft:overworld",
+  "mob": "minecraft:zombie",
+  "mincount": {
+    "amount": 100,
+    "hostile": true,
+    "perplayer": true
+  },
+  "result": "deny"
+}]

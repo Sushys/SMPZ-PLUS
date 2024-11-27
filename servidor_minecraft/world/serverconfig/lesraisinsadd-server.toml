@@ -1,0 +1,5 @@
+
+[server]
+	#Should virus effect will only spread among players(or all living entity). It won't change if entities directly in the grenade smoke get affected or not, and you should change that via datapack.
+	virusSpread = true
+
