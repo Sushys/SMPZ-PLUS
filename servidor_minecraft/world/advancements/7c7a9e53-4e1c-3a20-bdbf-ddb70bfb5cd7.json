@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_charcoal": "2024-11-27 23:49:18 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-11-27 23:19:10 +0000"
@@ -82,6 +88,12 @@
       "minecraft:jungle": "2024-11-27 23:17:50 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-11-27 23:49:18 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {

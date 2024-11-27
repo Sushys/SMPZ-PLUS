@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "toughasnails:recipes/decorations/water_purifier": {
+    "criteria": {
+      "has_charcoal": "2024-11-27 23:48:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2024-11-27 23:06:31 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-11-27 23:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-11-27 23:48:50 +0000"
     },
     "done": true
   },
