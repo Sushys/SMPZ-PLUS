@@ -14579,3 +14579,48 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 [23:23:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /give @a zombie_extreme:night_vision_helmet
 [23:23:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Gave 1 [Night Vision Goggles] to 3]
 [23:25:06] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/world/PistonEvent$PistonMoveType
+[23:25:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode survival
+[23:25:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Survival Mode]
+[23:25:59] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23:25:59] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23:26:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /give @a zombie_extreme:soda
+[23:26:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Gave 1 [Soda] to 3]
+[23:26:45] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/UseAction
+[23:27:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /give @a zombie_extreme:drug
+[23:27:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Gave 1 [Drug] to 3]
+[23:27:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[23:27:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[23:27:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode survival
+[23:27:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Survival Mode]
+[23:28:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss was slain by rext
+[23:28:43] [Server thread/INFO] [tac/]: PENDING
+[23:28:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp rext
+[23:28:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported Sushyss to rext]
+[23:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rext was slain by Sushyss
+[23:28:58] [Server thread/INFO] [tac/]: PENDING
+[23:30:31] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/inventory/DragType
+[23:30:59] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[23:30:59] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[23:31:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /give @a zombie_extreme:chip
+[23:31:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Gave 1 [Chip] to 3]
+[23:31:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /give @a zombie_extreme:chips
+[23:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Gave 1 [Chips] to 3]
+[23:32:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /give @a zombie_extreme:crowbar
+[23:32:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Gave 1 [Crowbar] to 3]
+[23:33:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss was slain by rext
+[23:33:44] [Server thread/INFO] [tac/]: PENDING
+[23:33:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp rext
+[23:33:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported Sushyss to rext]
+[23:34:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /kill Mak0zz
+[23:34:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Mak0zz fell out of the world
+[23:34:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Killed Mak0zz]
+[23:34:08] [Server thread/INFO] [tac/]: PENDING
+[23:34:16] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ichttt/mods/firstaid/common/network/MessageClientRequest$Type
+[23:34:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp Mak0zz Sushyss
+[23:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported Mak0zz to Sushyss]
+[23:34:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss was slain by Mak0zz
+[23:34:42] [Server thread/INFO] [tac/]: PENDING
+[23:34:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp Mak0zz
+[23:34:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported Sushyss to Mak0zz]
+[23:35:17] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[23:35:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
