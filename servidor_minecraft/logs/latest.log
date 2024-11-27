@@ -609,3 +609,14 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 [18:08:12] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/entity/player/PlayerEntity$SleepResult
 [18:08:18] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/flemmli97/improvedmobs/utils/IMAttributes$Attribute
 [18:08:26] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fml/network/NetworkEvent$RegistrationChangeType
+[18:08:49] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/Event$Result
+[18:08:49] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/block/BlockRenderType
+[18:09:36] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/player/PlayerAnimationType
+[18:09:37] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/zombieawareness/EnumSenseType
+[18:09:40] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/item/UseAction
+[18:12:38] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /difficulty peaceful
+[18:12:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: The difficulty has been set to Peaceful]
+[18:12:45] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[18:13:00] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/lighting/IWorldLightListener$Dummy
+[18:15:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss lost connection: Timed out
+[18:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss left the game
