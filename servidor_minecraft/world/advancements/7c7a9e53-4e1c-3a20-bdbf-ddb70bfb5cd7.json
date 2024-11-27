@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "zombie_extreme:rubies": {
+    "criteria": {
+      "rubies": "2024-11-27 23:38:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-11-27 23:18:01 +0000"
@@ -29,15 +35,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/willow_boat": {
-    "criteria": {
-      "in_water": "2024-11-27 23:19:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-11-27 23:18:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-11-27 23:19:10 +0000"
     },
     "done": true
   },
