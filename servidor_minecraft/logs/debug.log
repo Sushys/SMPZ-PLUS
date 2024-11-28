@@ -14395,3 +14395,76 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 [01:06:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode spectator
 [01:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Spectator Mode]
 [01:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DEVELOOPER has made the advancement [Getting an Upgrade]
+[01:06:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[01:06:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[01:07:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode spectator
+[01:07:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Spectator Mode]
+[01:07:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /effect give @s minecraft:night_vision 999
+[01:07:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Applied effect Night Vision to Sushyss]
+[01:07:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[01:07:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[01:07:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode spectator
+[01:07:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Spectator Mode]
+[01:07:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[01:07:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[01:07:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode spectator
+[01:07:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Spectator Mode]
+[01:07:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[01:07:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[01:07:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode spectator
+[01:07:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Spectator Mode]
+[01:08:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[01:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[01:08:03] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode spectator
+[01:08:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Spectator Mode]
+[01:08:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[01:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[01:08:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode spectator
+[01:08:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Spectator Mode]
+[01:08:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[01:08:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[01:08:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode spectator
+[01:08:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Spectator Mode]
+[01:08:24] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['DEVELOOPER'/20304, l='ServerLevel[Mazescapist]', x=181.00, y=6.00, z=-2172.30](TextComponent{text='DEVELOOPER', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 181.00061581250742,6.0,-2172.300000011921)
+[01:08:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[01:08:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[01:09:00] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/21621, l='ServerLevel[Mazescapist]', x=180.46, y=7.71, z=-2172.38], dimensionLocationPath overworld
+[01:09:00] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/21621, l='ServerLevel[Mazescapist]', x=180.46, y=7.71, z=-2172.38] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5368, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1ad]
+[01:09:01] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/21621, l='ServerLevel[Mazescapist]', x=180.13, y=6.00, z=-2172.88]
+[01:09:04] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayerEntity['DEVELOOPER'/20304, l='ServerLevel[Mazescapist]', x=180.83, y=6.00, z=-2172.83](TextComponent{text='DEVELOOPER', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 180.83239521138725,6.0,-2172.828659485248), dimensionLocationPath overworld
+[01:09:04] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayerEntity['DEVELOOPER'/20304, l='ServerLevel[Mazescapist]', x=180.83, y=6.00, z=-2172.83](TextComponent{text='DEVELOOPER', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 180.83239521138725,6.0,-2172.828659485248) in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5368, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@1ad]
+[01:09:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp @a Sushyss
+[01:09:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported 4 entities to Sushyss]
+[01:09:13] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['Sushyss'/429, l='ServerLevel[Mazescapist]', x=207.47, y=43.00, z=-2210.70](TextComponent{text='Sushyss', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 207.46941912521459,43.0,-2210.7006258680517)
+[01:09:14] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/21632, l='ServerLevel[Mazescapist]', x=200.37, y=43.56, z=-2211.60], dimensionLocationPath overworld
+[01:09:14] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/21632, l='ServerLevel[Mazescapist]', x=200.37, y=43.56, z=-2211.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@5368, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4f50]
+[01:09:15] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/21632, l='ServerLevel[Mazescapist]', x=199.54, y=43.00, z=-2212.36]
+[01:09:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[01:09:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative @a
+[01:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set DEVELOOPER's game mode to Creative Mode]
+[01:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set Mak0zz's game mode to Creative Mode]
+[01:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set rext's game mode to Creative Mode]
+[01:10:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rext has completed the challenge [Cover Me in Debris]
+[01:10:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rext has reached the goal [Sky's the Limit]
+[01:11:05] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Mazescapist
+[01:11:05] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Mazescapist
+[01:11:20] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:11:34] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:12:01] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:12:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: DEVELOOPER has reached the goal [Sky's the Limit]
+[01:13:01] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:13:03] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:13:36] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:13:50] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:13:57] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:14:01] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:15:10] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:15:13] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:15:29] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:15:40] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:16:05] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Mazescapist
+[01:16:05] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Mazescapist
+[01:16:09] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:16:11] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:16:17] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[01:16:33] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
