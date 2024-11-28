@@ -1,0 +1,16 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-28 14:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2024-11-28 14:36:01 +0000",
+      "minecraft:plains": "2024-11-28 14:36:49 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

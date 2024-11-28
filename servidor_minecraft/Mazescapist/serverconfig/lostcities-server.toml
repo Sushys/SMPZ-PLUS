@@ -6,6 +6,6 @@
 
 #General settings
 [profiles]
-	selectedProfile = ""
 	selectedCustomJson = ""
+	selectedProfile = ""
 
