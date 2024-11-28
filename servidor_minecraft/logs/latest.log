@@ -701,3 +701,17 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 [14:46:10] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tac/guns/common/WeaponType
 [14:48:14] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [14:52:37] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[14:54:47] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[14:54:51] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[14:58:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /difficulty easy
+[14:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: The difficulty has been set to Easy]
+[14:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ladyloki2003 has made the advancement [Monster Hunter]
+[14:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ladyloki2003 was slain by Zombie
+[14:59:21] [Server thread/INFO] [tac/]: PENDING
+[14:59:22] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[14:59:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ladyloki2003 was slain by Infected Hazmat
+[14:59:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[14:59:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:01:42] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[15:01:42] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (0 tiles)
+[15:01:42] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #1 data to player Sushyss
