@@ -2445,3 +2445,4 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 [15:53:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ladyloki2003 left the game
 [15:53:51] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss lost connection: Disconnected
 [15:53:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss left the game
+[17:17:55] [Server thread/INFO] [/]: Unknown command. Type "/help" for help.
