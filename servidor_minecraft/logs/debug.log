@@ -11244,3 +11244,48 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 [15:14:40] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Mazescapist
 [15:19:40] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Mazescapist
 [15:19:40] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Mazescapist
+[15:24:40] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Mazescapist
+[15:24:40] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Mazescapist
+[15:29:40] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save Mazescapist
+[15:29:40] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete Mazescapist
+[15:29:47] [Server thread/INFO] [tac/]: PENDING
+[15:29:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:30:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /difficulty peaceful
+[15:30:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: The difficulty has been set to Peaceful]
+[15:30:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /difficulty easy
+[15:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: The difficulty has been set to Easy]
+[15:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ladyloki2003 was slain by Zombie
+[15:31:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:26] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:29] [Server thread/INFO] [tac/]: PENDING
+[15:31:30] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
+[15:31:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ladyloki2003 was slain by Zombie
+[15:31:53] [Server thread/INFO] [tac/]: PENDING
+[15:31:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /spawnpoint @a
+[15:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set spawn point to 194, 43, -2211 [0.0] in minecraft:overworld for 2 players]
+[15:31:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /tp ladyloki2003 Sushyss
+[15:31:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported ladyloki2003 to Sushyss]
