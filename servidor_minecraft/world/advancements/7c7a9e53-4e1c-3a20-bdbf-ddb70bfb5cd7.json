@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-11-29 03:31:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-11-29 03:01:06 +0000"
@@ -662,9 +668,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-11-29 02:55:58 +0000",
+      "minecraft:taiga": "2024-11-29 03:25:02 +0000",
+      "minecraft:giant_tree_taiga": "2024-11-29 03:28:19 +0000",
       "minecraft:birch_forest": "2024-11-29 03:17:34 +0000",
       "minecraft:beach": "2024-11-29 03:14:39 +0000",
-      "minecraft:river": "2024-11-29 03:13:30 +0000"
+      "minecraft:river": "2024-11-29 03:13:30 +0000",
+      "minecraft:giant_tree_taiga_hills": "2024-11-29 03:25:37 +0000"
     },
     "done": false
   },
@@ -683,6 +692,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-11-29 02:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-11-29 03:31:02 +0000"
     },
     "done": true
   },

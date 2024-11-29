@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_glazed_terracotta": {
+    "criteria": {
+      "has_gray_terracotta": "2024-11-29 03:26:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-11-29 03:11:32 +0000"
@@ -504,13 +510,21 @@
       "minecraft:forest": "2024-11-29 02:48:45 +0000",
       "minecraft:mountains": "2024-11-29 02:44:58 +0000",
       "minecraft:taiga": "2024-11-29 02:48:37 +0000",
+      "minecraft:giant_tree_taiga": "2024-11-29 03:28:06 +0000",
       "minecraft:deep_cold_ocean": "2024-11-29 02:44:42 +0000",
       "minecraft:taiga_hills": "2024-11-29 02:49:09 +0000",
       "minecraft:river": "2024-11-29 02:45:00 +0000",
       "minecraft:wooded_hills": "2024-11-29 02:48:57 +0000",
-      "minecraft:stone_shore": "2024-11-29 02:44:53 +0000"
+      "minecraft:stone_shore": "2024-11-29 02:44:53 +0000",
+      "minecraft:giant_tree_taiga_hills": "2024-11-29 03:26:14 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-11-29 03:24:48 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
