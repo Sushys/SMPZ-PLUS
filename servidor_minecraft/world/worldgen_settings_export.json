@@ -1,0 +1,56 @@
+{
+  "bonus_chest": true,
+  "dimensions": {
+    "minecraft:overworld": {
+      "type": "minecraft:overworld",
+      "generator": {
+        "biome_source": {
+          "seed": -1489162553515747523,
+          "type": "minecraft:biomesoplenty_overworld"
+        },
+        "seed": -1489162553515747523,
+        "settings": "minecraft:overworld",
+        "type": "minecraft:noise"
+      }
+    },
+    "minecraft:the_nether": {
+      "type": "minecraft:the_nether",
+      "generator": {
+        "biome_source": {
+          "seed": -1489162553515747523,
+          "type": "minecraft:biomesoplenty_nether"
+        },
+        "seed": -1489162553515747523,
+        "settings": "minecraft:nether",
+        "type": "minecraft:noise"
+      }
+    },
+    "minecraft:the_end": {
+      "type": "minecraft:the_end",
+      "generator": {
+        "biome_source": {
+          "seed": -1489162553515747523,
+          "type": "minecraft:the_end"
+        },
+        "seed": -1489162553515747523,
+        "settings": "minecraft:end",
+        "type": "minecraft:noise"
+      }
+    },
+    "lostcities:lostcity": {
+      "type": "lostcities:lostcity",
+      "generator": {
+        "biome_source": {
+          "seed": 0,
+          "large_biomes": false,
+          "type": "minecraft:vanilla_layered"
+        },
+        "seed": 0,
+        "settings": "minecraft:overworld",
+        "type": "minecraft:noise"
+      }
+    }
+  },
+  "seed": -1489162553515747523,
+  "generate_features": true
+}

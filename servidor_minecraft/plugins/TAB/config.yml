@@ -3,17 +3,17 @@ header-footer:
   enabled: true
   header:
     - "<#FFFFFF>&m                                                </#FFFF00>"
-    - "&3&lServer name"
+    - "&4&lSMPZ "
     - "&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
-    - "&7Online players: &f%online%"
-    - "&6Online staff: &e%staffonline%"
+    - "&7Jugadores: &f%online%"
+    - "&6Admins: &e%staffonline%"
     - ""
   footer:
     - "%animation:time%"
     - "&2Ping: %ping%"
-    - "&7&l Used memory: %memory-used% MB / %memory-max% MB"
+    - "&7&l Memoria De Servidor: %memory-used% MB / %memory-max% MB"
     - ""
-    - "&7Visit our webpage %animation:web%"
+    - "&7:D %animation:web%"
     - "<#FFFFFF>&m                                                </#FFFF00>"
   disable-condition: '%world%=disabledworld'
   per-world:
