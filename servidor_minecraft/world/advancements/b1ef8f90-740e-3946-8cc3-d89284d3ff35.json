@@ -632,6 +632,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-11-29 04:21:50 +0000",
       "minecraft:spider": "2024-11-29 04:09:07 +0000",
       "minecraft:creeper": "2024-11-29 04:13:47 +0000",
       "minecraft:witch": "2024-11-29 04:11:41 +0000",
@@ -669,15 +670,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2024-11-29 04:09:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-11-29 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2024-11-29 04:09:53 +0000"
     },
     "done": true
   },
