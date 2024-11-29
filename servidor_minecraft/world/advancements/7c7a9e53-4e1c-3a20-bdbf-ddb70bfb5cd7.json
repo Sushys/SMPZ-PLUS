@@ -755,9 +755,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-29 04:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-11-29 03:08:28 +0000"
+      "minecraft:skeleton": "2024-11-29 03:08:28 +0000",
+      "minecraft:spider": "2024-11-29 04:13:39 +0000",
+      "minecraft:zombie": "2024-11-29 04:12:42 +0000"
     },
     "done": false
   },
@@ -1145,6 +1153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-11-29 04:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-11-29 03:36:39 +0000"
@@ -1376,6 +1390,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2024-11-29 03:49:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-11-29 04:14:28 +0000"
     },
     "done": true
   },

@@ -1226,3 +1226,68 @@ java.lang.ClassFormatError: Duplicate method name "func_184812_l_" with signatur
 [04:01:25] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayerEntity['rext'/519, l='ServerLevel[world]', x=274.08, y=95.00, z=-2983.11](TextComponent{text='rext', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 274.0762274918397,95.0,-2983.1130092836647) in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@28be, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@e1]
 [04:04:38] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/12901, l='ServerLevel[world]', x=235.59, y=84.37, z=-2965.56], dimensionLocationPath overworld
 [04:04:38] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/12901, l='ServerLevel[world]', x=235.59, y=84.37, z=-2965.56] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@28be, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@e1, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@207]
+[04:06:31] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['rext'/519, l='ServerLevel[world]', x=250.06, y=66.00, z=-2980.25](TextComponent{text='rext', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 250.0611933790659,66.0,-2980.249639986767)
+[04:07:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SOBREVIVIENTE] Sushyss has made the advancement [Acquire Hardware]
+[04:08:26] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[04:08:26] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (0 tiles)
+[04:08:26] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Sushyss
+[04:08:29] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['Sushyss'/225, l='ServerLevel[world]', x=264.62, y=114.00, z=-3013.97](TextComponent{text='Sushyss', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 264.6225343208733,114.0,-3013.966496419829)
+[04:08:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /difficulty easy
+[04:08:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[SOBREVIVIENTE] Sushyss: The difficulty has been set to Easy]
+[04:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SOBREVIVIENTE] Sushyss has made the advancement [Monster Hunter]
+[04:09:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss lost connection: Disconnected
+[04:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss left the game
+[04:09:22] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Login payload for com.tac.guns.network.HandshakeMessages$S2CUpdateGuns is using 27.4532% of max allowed vanilla size
+[04:09:23] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Sushyss is b1ef8f90-740e-3946-8cc3-d89284d3ff35
+[04:09:24] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 77 mods : zombie_extreme, saturn, gokistats, auudio, hitindication, opotato, incontrol, nerb, entitycollisionfpsfix, connectivity, dynamiclights, tac, lesraisinsadd, insanelib, mr_mcoptimizer, totaldarkness, clumps, fastasyncworldsave, enhancedvisuals, modernfix, jei, horror_element_mod, zombieawareness, myserveriscompatible, farsightedmobs, lazydfu, simpleplanes, wegotrunnners, hordes, dynview, fpsreducer, firstaid, forge, konkrete, embeddium, rubidium, minecraft, tenshilib, smoothchunk, ambientsounds, biomesoplenty, creativecore, bunker_down, spark, betterfpsdist, flywheel, curios, oculus, mobsunscreen, bocchium, performant, toughasnails, entityculling, lostcities, obfuscate, vehicle, fancymenu, drippyloadingscreen, atlaslib, embeddiumextras, coroutil, architectury, antiqueatlas, ferritecore, cloth-config, enhancedcelestials, dynamic_fps, skbackpacks, enhancedai, betterf3, pretaccraft, textrues_embeddium_options, reeses_sodium_options, improvedmobs, geckolib3, fmextension_audio, presencefootsteps
+[04:09:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Sushyss[/127.140.55.136:41667] logged in with entity id 13,302 at (274.124, 114, -3,019.789)
+[04:09:26] [Server thread/INFO] [tac/]: PENDING
+[04:09:26] [TAB Processing Thread/INFO] [/]: [TAB] [WARN] Player Sushyss's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:09:26] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Sushyss
+[04:09:26] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[04:09:26] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[04:09:26] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[04:09:26] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[04:09:26] [Server thread/INFO] [antiqueatlas/]: Sending dimension #ResourceKey[minecraft:dimension / minecraft:overworld]
+[04:09:26] [Server thread/INFO] [antiqueatlas/]: Sent dimension #ResourceKey[minecraft:dimension / minecraft:overworld] (4 tiles)
+[04:09:26] [Server thread/INFO] [antiqueatlas/]: Sent Atlas #2 data to player Sushyss
+[04:09:41] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04:10:10] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['Sushyss'/13302, l='ServerLevel[world]', x=272.67, y=114.00, z=-3023.14](TextComponent{text='Sushyss', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 272.66616966344435,114.0,-3023.1425359304408)
+[04:10:10] [Server thread/INFO] [tac/]: PENDING
+[04:10:17] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/bukkit/event/entity/EntityUnleashEvent$UnleashReason
+[04:10:29] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/13533, l='ServerLevel[world]', x=265.93, y=77.00, z=-2989.52], dimensionLocationPath overworld
+[04:10:29] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/13533, l='ServerLevel[world]', x=265.93, y=77.00, z=-2989.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@28be]
+[04:10:39] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/13576, l='ServerLevel[world]', x=283.93, y=84.00, z=-3002.08], dimensionLocationPath overworld
+[04:10:39] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/13576, l='ServerLevel[world]', x=283.93, y=84.00, z=-3002.08] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@28be, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@34dd]
+[04:10:40] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/13573, l='ServerLevel[world]', x=295.16, y=84.00, z=-3001.90], dimensionLocationPath overworld
+[04:10:40] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/13573, l='ServerLevel[world]', x=295.16, y=84.00, z=-3001.90] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@28be, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@34dd, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3508]
+[04:12:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[04:12:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[SOBREVIVIENTE] Sushyss: Set own game mode to Creative Mode]
+[04:12:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode survival
+[04:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [[SOBREVIVIENTE] Sushyss: Set own game mode to Survival Mode]
+[04:13:34] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[04:13:34] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[04:13:34] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[04:13:34] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[04:13:59] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[04:13:59] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[04:13:59] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[04:13:59] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[04:14:32] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['rext'/519, l='ServerLevel[world]', x=266.04, y=108.00, z=-3022.70](TextComponent{text='rext', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 266.0376656051938,108.0,-3022.699999988079)
+[04:14:32] [Server thread/INFO] [tac/]: PENDING
+[04:14:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: rext lost connection: Disconnected
+[04:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SOBREVIVIENTE] rext died
+[04:14:45] [Server thread/INFO] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayerEntity['rext'/519, l='ServerLevel[world]', x=284.49, y=114.00, z=-3019.64](TextComponent{text='rext', siblings=[], style=Style{ color=null, bold=null, italic=null, underlined=null, strikethrough=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null, font=minecraft:default}} at 284.4919756519988,114.0,-3019.6352577729776)
+[04:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: rext left the game
+[04:14:47] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Login payload for com.tac.guns.network.HandshakeMessages$S2CUpdateGuns is using 27.4532% of max allowed vanilla size
+[04:14:48] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player rext is 7c7a9e53-4e1c-3a20-bdbf-ddb70bfb5cd7
+[04:14:49] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 77 mods : zombie_extreme, saturn, gokistats, auudio, hitindication, opotato, incontrol, nerb, entitycollisionfpsfix, connectivity, dynamiclights, tac, lesraisinsadd, insanelib, mr_mcoptimizer, totaldarkness, clumps, fastasyncworldsave, enhancedvisuals, modernfix, jei, horror_element_mod, zombieawareness, myserveriscompatible, farsightedmobs, lazydfu, simpleplanes, wegotrunnners, hordes, dynview, fpsreducer, firstaid, forge, konkrete, embeddium, rubidium, minecraft, tenshilib, smoothchunk, ambientsounds, biomesoplenty, creativecore, bunker_down, spark, betterfpsdist, flywheel, curios, oculus, mobsunscreen, bocchium, performant, toughasnails, entityculling, lostcities, obfuscate, vehicle, fancymenu, drippyloadingscreen, atlaslib, embeddiumextras, coroutil, architectury, antiqueatlas, ferritecore, cloth-config, enhancedcelestials, dynamic_fps, skbackpacks, enhancedai, betterf3, pretaccraft, textrues_embeddium_options, reeses_sodium_options, improvedmobs, geckolib3, fmextension_audio, presencefootsteps
+[04:14:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: rext[/127.146.249.221:36259] logged in with entity id 14,325 at (284.492, 114, -3,019.635)
+[04:14:51] [Server thread/INFO] [tac/]: PENDING
+[04:14:51] [TAB Processing Thread/INFO] [/]: [TAB] [WARN] Player rext's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:14:51] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player rext
+[04:14:51] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player rext
+[04:14:51] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player rext
+[04:14:51] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player rext
+[04:14:51] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player rext
+[04:14:53] [Server thread/INFO] [tac/]: PENDING
