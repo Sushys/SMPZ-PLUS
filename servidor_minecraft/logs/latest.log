@@ -789,3 +789,31 @@ Caused by: java.lang.UnsupportedClassVersionError: org/popcraft/chunky/ChunkyBuk
 [23:32:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Teleported bryanandrewGP1 to Sushyss]
 [23:32:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode survival
 [23:32:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Survival Mode]
+[23:32:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[23:32:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[23:33:33] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1500, y=71, z=-78} but found not block entity block Block{minecraft:air} at location
+[23:33:33] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1499, y=73, z=-77} but found not block entity block Block{minecraft:air} at location
+[23:33:33] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1498, y=71, z=-76} but found not block entity block Block{minecraft:air} at location
+[23:33:42] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss lost connection: Disconnected
+[23:33:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss left the game
+[23:34:20] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Login payload for com.tac.guns.network.HandshakeMessages$S2CUpdateGuns is using 27.4532% of max allowed vanilla size
+[23:34:21] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Sushyss is b1ef8f90-740e-3946-8cc3-d89284d3ff35
+[23:34:21] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 81 mods : zombie_extreme, saturn, auudio, hitindication, opotato, incontrol, nerb, entitycollisionfpsfix, connectivity, dynamiclights, tac, lesraisinsadd, insanelib, mr_mcoptimizer, totaldarkness, crafte_string, clumps, fastasyncworldsave, enhancedvisuals, modernfix, jei, configured, zombieawareness, myserveriscompatible, badmobs, farsightedmobs, lazydfu, wegotrunnners, hordes, dynview, fpsreducer, carryon, firstaid, forge, konkrete, embeddium, rubidium, minecraft, tenshilib, smoothchunk, ambientsounds, biomesoplenty, vtaw_mw, creativecore, bunker_down, spark, betterfpsdist, flywheel, curios, oculus, mobsunscreen, bocchium, performant, toughasnails, entityculling, backpacked, lostcities, obfuscate, vehicle, fancymenu, drippyloadingscreen, atlaslib, embeddiumextras, coroutil, blood_and_gore, architectury, antiqueatlas, ferritecore, cloth-config, enhancedcelestials, dynamic_fps, enhancedai, betterf3, pretaccraft, textrues_embeddium_options, reeses_sodium_options, improvedmobs, playerrevive, geckolib3, fmextension_audio, presencefootsteps
+[23:34:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Sushyss[/127.140.55.136:38907] logged in with entity id 3,286 at (-1,854.573, 65, 6.189)
+[23:34:22] [Server thread/INFO] [tac/]: PENDING
+[23:34:22] [TAB Processing Thread/INFO] [/]: [TAB] [WARN] Player Sushyss's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:34:23] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Sushyss
+[23:34:23] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[23:34:23] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[23:34:23] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[23:34:23] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[23:35:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss has made the advancement [Cover Me With Diamonds]
+[23:35:28] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-250, y=53, z=-268} but found not block entity block Block{minecraft:stone_bricks} at location
+[23:35:28] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-251, y=55, z=-269} but found not block entity block Block{minecraft:stone_bricks} at location
+[23:35:28] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-528, y=45, z=105} but found not block entity block Block{minecraft:stone_bricks} at location
+[23:35:28] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-528, y=46, z=105} but found not block entity block Block{minecraft:stone_bricks} at location
+[23:35:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: bryanandrewGP1 has made the advancement [Cover Me With Diamonds]
+[23:36:10] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /invsee bryanandrewGP1
+[23:36:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /invsee bryanandrewGP1
+[23:37:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /time set day
+[23:37:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set the time to 1000]
