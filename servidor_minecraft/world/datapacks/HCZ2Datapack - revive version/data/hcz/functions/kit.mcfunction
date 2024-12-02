@@ -1,9 +1,0 @@
-give @a[tag=!kit] bread 10
-give @a[tag=!kit] cgm:pistol{AmmoCount:0}
-give @a[tag=!kit] firstaid:bandage 8
-give @a[tag=!kit] cgm:basic_bullet 64
-item replace entity @a[tag=!kit] armor.head with minecraft:leather_helmet
-item replace entity @a[tag=!kit] armor.chest with minecraft:leather_chestplate
-item replace entity @a[tag=!kit] armor.legs with minecraft:leather_leggings
-item replace entity @a[tag=!kit] armor.feet with minecraft:leather_boots
-tag @a[tag=!kit] add kit

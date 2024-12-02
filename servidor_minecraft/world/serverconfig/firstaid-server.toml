@@ -5,9 +5,9 @@
 	#Range: 2 ~ 12
 	maxHealthBody = 6
 	#True if the body can cause death if health drops to 0
-	causeDeathBody = true
+	causeDeathBody = false
 	#True if the head can cause death if health drops to 0
-	causeDeathHead = true
+	causeDeathHead = false
 	#Max health of the Head
 	#Range: 2 ~ 12
 	maxHealthHead = 4

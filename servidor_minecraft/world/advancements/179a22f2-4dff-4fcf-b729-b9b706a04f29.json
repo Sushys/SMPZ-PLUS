@@ -1,128 +1,36 @@
 {
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "gravel_beach": "2024-11-28 21:05:32 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/willow_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/palm_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
+      "seasonal_forest": "2024-12-02 17:38:01 -0500"
     },
     "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "seasonal_pumpkin_patch": "2024-11-28 21:05:45 -0500",
-      "seasonal_orchard": "2024-11-28 21:05:49 -0500",
-      "dead_forest": "2024-11-28 21:05:37 -0500",
-      "burnt_forest": "2024-11-28 21:05:47 -0500",
-      "gravel_beach": "2024-11-28 21:05:32 -0500"
+      "seasonal_pumpkin_patch": "2024-12-02 17:40:05 -0500",
+      "bayou_mangrove": "2024-12-02 17:42:51 -0500",
+      "shroomy_wetland": "2024-12-02 17:41:33 -0500",
+      "wetland_forest": "2024-12-02 17:41:24 -0500",
+      "bayou": "2024-12-02 17:42:52 -0500",
+      "wetland": "2024-12-02 17:40:36 -0500",
+      "seasonal_forest": "2024-12-02 17:38:01 -0500"
     },
     "done": false
   },
-  "biomesoplenty:recipes/transportation/dead_boat": {
+  "zombie_extreme:alternateworldadvancement": {
     "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/fir_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-11-28 21:04:09 -0500"
+      "alternateworldadvancement": "2024-12-02 17:41:52 -0500"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2024-11-28 21:05:04 -0500",
-      "minecraft:mountains": "2024-11-28 21:05:15 -0500",
-      "minecraft:deep_cold_ocean": "2024-11-28 21:04:58 -0500",
-      "minecraft:stone_shore": "2024-11-28 21:05:11 -0500"
+      "minecraft:forest": "2024-12-02 17:40:26 -0500",
+      "minecraft:warm_ocean": "2024-12-02 17:41:56 -0500",
+      "minecraft:deep_lukewarm_ocean": "2024-12-02 17:41:43 -0500",
+      "minecraft:beach": "2024-12-02 17:40:25 -0500",
+      "minecraft:river": "2024-12-02 17:40:03 -0500",
+      "minecraft:lukewarm_ocean": "2024-12-02 17:41:32 -0500"
     },
     "done": false
   },
