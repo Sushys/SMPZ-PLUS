@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-12-02 23:46:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-12-02 23:31:50 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-02 23:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-02 23:50:13 +0000"
     },
     "done": true
   },
@@ -341,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 23:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-02 23:31:09 +0000"
@@ -439,6 +457,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "dead_forest": "2024-12-02 23:40:20 +0000",
       "undergrowth": "2024-12-02 23:23:42 +0000"
     },
     "done": false
@@ -469,7 +488,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:taiga": "2024-12-02 23:23:53 +0000"
+      "minecraft:taiga": "2024-12-02 23:23:53 +0000",
+      "minecraft:river": "2024-12-02 23:40:16 +0000"
     },
     "done": false
   },
