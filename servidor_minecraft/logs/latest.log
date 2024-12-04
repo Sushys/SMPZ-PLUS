@@ -229,3 +229,34 @@
 [04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
 [04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
 [04:48:20] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[05:05:01] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Sushyss is b1ef8f90-740e-3946-8cc3-d89284d3ff35
+[05:05:02] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 78 mods : zombie_extreme, saturn, auudio, hitindication, opotato, incontrol, nerb, entitycollisionfpsfix, connectivity, dynamiclights, tac, lesraisinsadd, insanelib, mr_mcoptimizer, totaldarkness, crafte_string, clumps, fastasyncworldsave, enhancedvisuals, modernfix, jei, configured, zombieawareness, myserveriscompatible, badmobs, farsightedmobs, lazydfu, wegotrunnners, hordes, dynview, fpsreducer, firstaid, forge, konkrete, embeddium, rubidium, minecraft, tenshilib, smoothchunk, ambientsounds, biomesoplenty, creativecore, bunker_down, spark, betterfpsdist, flywheel, curios, oculus, mobsunscreen, bocchium, performant, toughasnails, entityculling, backpacked, lostcities, obfuscate, fancymenu, drippyloadingscreen, atlaslib, embeddiumextras, coroutil, blood_and_gore, architectury, antiqueatlas, ferritecore, cloth-config, enhancedcelestials, dynamic_fps, enhancedai, betterf3, pretaccraft, textrues_embeddium_options, reeses_sodium_options, improvedmobs, playerrevive, geckolib3, fmextension_audio, presencefootsteps
+[05:05:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Sushyss[/127.140.55.136:48401] logged in with entity id 166 at (-1,838.472, 68, 63.209)
+[05:05:03] [Server thread/INFO] [tac/]: PENDING
+[05:05:03] [TAB Processing Thread/INFO] [/]: [TAB] [WARN] Player Sushyss's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:05:03] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Sushyss
+[05:05:03] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[05:05:03] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[05:05:03] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[05:05:03] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[05:05:05] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 3ms increasing chunk view distance to: 6
+[05:05:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /time set day
+[05:05:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set the time to 1000]
+[05:05:20] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 12ms increasing chunk view distance to: 7
+[05:05:35] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 8ms increasing chunk view distance to: 8
+[05:05:50] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 6ms increasing chunk view distance to: 9
+[05:06:05] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 6ms increasing chunk view distance to: 10
+[05:06:20] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 6ms increasing chunk view distance to: 11
+[05:06:35] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 12
+[05:06:50] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 13
+[05:07:05] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 14
+[05:07:20] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 15
+[05:07:35] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 16
+[05:07:50] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 17
+[05:08:05] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 18
+[05:08:20] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 10ms increasing chunk view distance to: 19
+[05:08:35] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 10ms increasing chunk view distance to: 20
+[05:09:10] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[05:11:53] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[05:11:53] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[05:12:24] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
