@@ -287,3 +287,35 @@
 [05:22:01] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [05:22:02] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
 [05:22:05] [Server thread/INFO] [tac/]: NEW UUID GEN FOR TAC GUN
+[05:26:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /time set day
+[05:26:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set the time to 1000]
+[05:27:33] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode survival
+[05:27:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Survival Mode]
+[05:27:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[05:27:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[05:29:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode survival
+[05:29:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Survival Mode]
+[05:29:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss is bleeding...
+[05:30:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /gamemode creative
+[05:30:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set own game mode to Creative Mode]
+[05:30:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss lost connection: Disconnected
+[05:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss was shot by Creeper
+[05:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss left the game
+[05:30:39] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Sushyss is b1ef8f90-740e-3946-8cc3-d89284d3ff35
+[05:30:40] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 78 mods : zombie_extreme, saturn, auudio, hitindication, opotato, incontrol, nerb, entitycollisionfpsfix, connectivity, dynamiclights, tac, lesraisinsadd, insanelib, mr_mcoptimizer, totaldarkness, crafte_string, clumps, fastasyncworldsave, enhancedvisuals, modernfix, jei, configured, zombieawareness, myserveriscompatible, badmobs, farsightedmobs, lazydfu, wegotrunnners, hordes, dynview, fpsreducer, firstaid, forge, konkrete, embeddium, rubidium, minecraft, tenshilib, smoothchunk, ambientsounds, biomesoplenty, creativecore, bunker_down, spark, betterfpsdist, flywheel, curios, oculus, mobsunscreen, bocchium, performant, toughasnails, entityculling, backpacked, lostcities, obfuscate, fancymenu, drippyloadingscreen, atlaslib, embeddiumextras, coroutil, blood_and_gore, architectury, antiqueatlas, ferritecore, cloth-config, enhancedcelestials, dynamic_fps, enhancedai, betterf3, pretaccraft, textrues_embeddium_options, reeses_sodium_options, improvedmobs, playerrevive, geckolib3, fmextension_audio, presencefootsteps
+[05:30:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Sushyss[/127.140.55.136:45617] logged in with entity id 2,574 at (-1,717.679, 72, 28.956)
+[05:30:41] [TAB Processing Thread/INFO] [/]: [TAB] [WARN] Player Sushyss's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[05:30:41] [Server thread/INFO] [tac/]: PENDING
+[05:30:41] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Sushyss
+[05:30:41] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[05:30:41] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[05:30:41] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[05:30:41] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
+[05:30:42] [Server thread/INFO] [tac/]: PENDING
+[05:30:52] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:mob_spawner @ BlockPos{x=-2940, y=83, z=-214}
+[05:30:52] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:mob_spawner @ BlockPos{x=-2935, y=77, z=-214}
+[05:30:52] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:mob_spawner @ BlockPos{x=-2939, y=77, z=-214}
+[05:30:52] [Server thread/WARN] [net.minecraft.tileentity.TileEntity/]: Block entity invalid: minecraft:chest @ BlockPos{x=-2940, y=78, z=-211}
+[05:31:48] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1390, y=40, z=-96} but found not block entity block Block{minecraft:stone} at location
+[05:31:48] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1392, y=40, z=-96} but found not block entity block Block{minecraft:stone} at location
+[05:32:25] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2967, y=53, z=74} but found not block entity block Block{minecraft:stone_bricks} at location
