@@ -1,19 +1,7 @@
 {
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2024-12-02 23:36:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-02 23:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-12-02 23:24:11 +0000"
     },
     "done": true
   },
@@ -23,36 +11,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2024-12-02 23:36:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-12-02 23:05:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2024-12-02 23:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-02 23:25:10 +0000",
-      "minecraft:spider": "2024-12-02 23:26:46 +0000",
-      "minecraft:creeper": "2024-12-02 23:24:54 +0000",
-      "minecraft:zombie": "2024-12-02 23:05:44 +0000"
-    },
-    "done": false
-  },
-  "backpacked:recipes/backpacked/birch_backpack_shelf": {
-    "criteria": {
-      "has_stick": "2024-12-02 23:36:43 +0000"
     },
     "done": true
   },
@@ -80,21 +41,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
-      "enchanted_golden_apple": "2024-12-04 05:14:09 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-12-02 23:36:43 +0000"
+      "in_water": "2024-12-04 05:31:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
-      "has_enchanted_golden_apple": "2024-12-04 05:13:51 +0000"
+      "in_water": "2024-12-04 05:31:10 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
     },
     "done": true
   },
@@ -106,13 +67,13 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
-      "has_planks": "2024-12-02 23:36:43 +0000"
+      "in_water": "2024-12-04 05:31:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
+  "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-02 23:36:43 +0000"
     },
@@ -127,24 +88,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2024-12-02 23:31:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-02 23:36:43 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "undergrowth": "2024-12-02 23:00:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-02 23:36:43 +0000"
@@ -157,9 +100,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
     },
     "done": true
   },
@@ -187,6 +142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2024-12-02 23:36:43 +0000"
@@ -211,15 +172,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_stick": "2024-12-02 23:36:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2024-12-02 23:36:43 +0000"
+      "in_water": "2024-12-04 05:31:10 +0000"
     },
     "done": true
   },
@@ -235,9 +190,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
+  "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
-      "has_planks": "2024-12-02 23:36:43 +0000"
+      "in_water": "2024-12-04 05:31:10 +0000"
     },
     "done": true
   },
@@ -253,9 +208,156 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-02 23:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-02 23:25:10 +0000",
+      "minecraft:spider": "2024-12-02 23:26:46 +0000",
+      "minecraft:creeper": "2024-12-02 23:24:54 +0000",
+      "minecraft:zombie": "2024-12-02 23:05:44 +0000"
+    },
+    "done": false
+  },
+  "backpacked:recipes/backpacked/birch_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2024-12-04 05:14:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-04 05:13:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-02 23:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "undergrowth": "2024-12-02 23:00:17 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/dark_oak_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-02 23:36:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-12-04 05:31:10 +0000"
     },
     "done": true
   },
