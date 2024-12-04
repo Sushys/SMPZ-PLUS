@@ -1,534 +1,231 @@
-[19:16:21] [main/INFO] [STDOUT/]: Update in check...
-[19:16:21] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
-[19:16:22] [main/INFO] [STDOUT/]: The latest Mohist version is 1.16.5-1243 but you have 1.16.5-1240. The latest version has been built on 2024-10-15 09:56:20. You should update to fix recent bugs !
-[19:16:22] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 1240, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
-[19:16:22] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 17.0.13 by Ubuntu
-[19:16:24] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[19:16:24] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/SMPZ-PLUS/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[19:16:26] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[19:16:26] [main/INFO] [opotato/]: Mod Atlas-Lib-1.16.5-1.1.3c.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod BadMobs-1.16.5-9.1.9.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod BetterF3-1.5.0-Forge-1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod BiomesOPlenty-1.16.5-13.1.0.488-universal.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod Clumps-6.0.0.28.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod Crafteable_string_A.O.T-1.16.5-1.2.7.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod CreativeCore_v2.2.1_mc1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod EnhancedAI-1.2.3-mc1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod EnhancedVisuals_v1.3.32_mc1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod FpsReducer-forge-1.24-mc1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod InsaneLib-1.4.2-mc1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod MyServerIsCompatible-1.16.5-1.0.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod Optimizer 1.1.0 (1.13-1.21.1).jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod PlayerRevive_v2.0.0-pre04_mc1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod TacCraft [Forge 1.16.5] 0.1.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod TenshiLib-1.16.3-1.3.0.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod The-Hordes-1.16.5-1.1.5c.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod ToughAsNails-1.16.5-4.1.0.9-universal.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod WegotRunners0.3a.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod Zombie Extreme 1.16.5 1.8.2.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod antiqueatlas-6.2.4-forge-mc1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod architectury-1.32.68.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod auudio_forge_1.0.3-1_MC_1.16.2-1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod backpacked-forge-1.16.5-2.1.13.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod betterfpsdist-1.2.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod bloodandgore-1.16.5-v1.1.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod bunker-down 1-1-0.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod cloth-config-4.17.132-forge.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod configured-1.5.4-1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod coroutil-forge-1.16.5-1.3.6.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod curios-forge-1.16.5-4.1.0.0.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod dynamiclights-1.16.5.1.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod dynviewdist-2.0.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod embeddium-0.3.18+mc1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod enhancedcelestials-2.0.9-1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod entitycollisionfpsfix-1.16-1.0.1.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod fancymenu_forge_2.14.9_MC_1.16.2-1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod farsightedmobs-forge-1.16-1.1.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod fastasyncworldsave-1.16.5-1.4.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod ferritecore-2.1.1-forge.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod firstaid-1.9.7.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod flywheel-1.16-0.2.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod fm_audio_extension_forge_1.1.1_MC_1.16.2-1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod geckolib-forge-1.16.5-3.0.106.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod improvedmobs-1.16.5-1.10.13.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod incontrol-1.16-5.2.12.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod jei-1.16.5-7.8.0.1009.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod konkrete_forge_1.6.1_MC_1.16.2-1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod lazydfu-0.1.3.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod lesraisinsadd-0.1.4.7.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod lostcities-1.16-4.0.12-beta.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod mobsunscreen-1.16.4-2.1.3.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod modernfix-forge-5.18.0+mc1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod mohist-1.16.5-1240-server.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod mohist-1.16.5-1240-universal.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod nerb-1.16.5-0.3.1-FORGE.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod obfuscate-0.6.3-1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod opotato-1.16.5-2.2.7.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod saturn-mc1.16.5-0.0.3.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod smoothchunk1.16.5-2.0.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod spark-1.9.1-forge.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod tac-release-0.3.14.2-1.16.5.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Mod zombieawareness-1.16.5-1.12.jar loaded!
-[19:16:26] [main/INFO] [opotato/]: Loaded configuration file for Opotato: 37 options available, 0 override(s) found
-[19:16:26] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:16:26] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 89 options available, 1 override(s) found
-[19:16:26] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
-[19:16:26] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[19:16:27] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[19:16:27] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 95 options available, 0 override(s) found
-[19:16:27] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:16:27] [main/WARN] [mixin/]: Reference map 'antiqueatlas-forge-refmap.json' for antiqueatlas.mixins.json could not be read. If this is a development environment you can ignore this message
-[19:16:29] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via org.embeddedt.modernfix.forge.shadow.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
-[19:16:30] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: ModernFix reached bootstrap stage (17.50 s after launch)
-[19:16:32] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
-[19:16:34] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: Vanilla bootstrap took 3670 milliseconds
-[19:16:34] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[19:16:34] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[19:16:34] [modloading-worker-0/WARN] [auudio/Auudio/]: WARNING: Auudio is a client mod and has no effect when loaded on a server!
-[19:16:34] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[19:16:34] [modloading-worker-0/INFO] [The Hordes/]: Trying to load common config
-[19:16:34] [modloading-worker-0/INFO] [The Hordes/]: Trying to load client config
-[19:16:35] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
-[19:16:35] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
-[19:16:35] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[19:16:35] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[19:16:35] [modloading-worker-0/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
-[19:16:35] [modloading-worker-0/INFO] [fancymenu/FancyMenu/]: [FANCYMENU] Loading v2.14.9 in server-side mode!
-[19:16:35] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
-[19:16:35] [modloading-worker-0/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
-[19:16:35] [modloading-worker-0/WARN] [fmaudio/FmAudio/]: WARNING: FancyMenu Audio Extension is a client mod and has no effect when loaded on a server!
-[19:16:36] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[19:16:36] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[19:16:36] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
-[19:16:36] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
-[19:16:37] [main/INFO] [corgitaco.enhancedcelestials.Main/]: enhancedcelestials: Sounds registered!
-[19:16:37] [main/WARN] [insane96mcp.insanelib.InsaneLib/]: quark:forgotten id seems to not exist
-[19:16:37] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
-[19:16:37] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
-[19:16:37] [modloading-worker-0/INFO] [incontrol/]: Reading rules from spawn.json
-[19:16:37] [modloading-worker-0/INFO] [com.dynamic_view.DynView/]: Zooming chunks initiated!
-[19:16:37] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[19:16:37] [modloading-worker-0/INFO] [incontrol/]: Reading rules from summonaid.json
-[19:16:37] [modloading-worker-0/INFO] [incontrol/]: Reading rules from potentialspawn.json
-[19:16:37] [modloading-worker-0/INFO] [incontrol/]: Reading rules from loot.json
-[19:16:37] [modloading-worker-0/INFO] [incontrol/]: Reading rules from experience.json
-[19:16:37] [modloading-worker-0/INFO] [incontrol/]: Reading rules from phases.json
-[19:16:38] [modloading-worker-0/INFO] [incontrol/]: Reading rules from spawner.json
-[19:16:38] [modloading-worker-0/INFO] [com.betterfpsdist.BetterfpsdistMod/]: betterfpsdist mod initialized
-[19:16:38] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
-[19:16:38] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
-[19:16:38] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[19:16:38] [modloading-worker-0/INFO] [The Hordes/]: Trying to read spawn table from config
-[19:16:38] [modloading-worker-0/INFO] [The Hordes/]: Loaded entity minecraft:zombie-30-0-20 as entity.minecraft.zombie with weight 30, min day 0 and max day 20
-[19:16:38] [modloading-worker-0/INFO] [The Hordes/]: Loaded entity minecraft:zombie_villager-3-0-20 as entity.minecraft.zombie_villager with weight 3, min day 0 and max day 20
-[19:16:38] [modloading-worker-0/INFO] [The Hordes/]: Loaded entity minecraft:husk-30-30-0 as entity.minecraft.husk with weight 30, min day 30 and max day 0
-[19:16:38] [modloading-worker-0/INFO] [The Hordes/]: Loaded entity minecraft:drowned{HandItems:[{id:trident,Count:1}]}-1-30-0 as entity.minecraft.drowned with weight 1, min day 30 and max day 0
-[19:16:38] [modloading-worker-0/INFO] [The Hordes/]: Trying to read conversion table from config
-[19:16:38] [modloading-worker-0/INFO] [The Hordes/]: Loaded conversion minecraft:horse-65-minecraft:zombie_horse as entity.minecraft.horse with infection chance 65, and converts to entity.minecraft.zombie_horse
-[19:16:39] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:16:39] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:vehicle
-[19:16:39] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Zombie Extreme 1.16.5 1.8.2.jar, saturn-mc1.16.5-0.0.3.jar, auudio_forge_1.0.3-1_MC_1.16.2-1.16.5.jar, opotato-1.16.5-2.2.7.jar, incontrol-1.16-5.2.12.jar, nerb-1.16.5-0.3.1-FORGE.jar, entitycollisionfpsfix-1.16-1.0.1.jar, dynamiclights-1.16.5.1.jar, tac-release-0.3.14.2-1.16.5.jar, lesraisinsadd-0.1.4.7.jar, InsaneLib-1.4.2-mc1.16.5.jar, Optimizer 1.1.0 (1.13-1.21.1).jar, Crafteable_string_A.O.T-1.16.5-1.2.7.jar, Clumps-6.0.0.28.jar, fastasyncworldsave-1.16.5-1.4.jar, EnhancedVisuals_v1.3.32_mc1.16.5.jar, modernfix-forge-5.18.0+mc1.16.5.jar, jei-1.16.5-7.8.0.1009.jar, configured-1.5.4-1.16.5.jar, zombieawareness-1.16.5-1.12.jar, BadMobs-1.16.5-9.1.9.jar, farsightedmobs-forge-1.16-1.1.jar, lazydfu-0.1.3.jar, WegotRunners0.3a.jar, The-Hordes-1.16.5-1.1.5c.jar, dynviewdist-2.0.jar, FpsReducer-forge-1.24-mc1.16.5.jar, firstaid-1.9.7.jar, mohist-1.16.5-1240-universal.jar, konkrete_forge_1.6.1_MC_1.16.2-1.16.5.jar, embeddium-0.3.18+mc1.16.5.jar, TenshiLib-1.16.3-1.3.0.jar, smoothchunk1.16.5-2.0.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, CreativeCore_v2.2.1_mc1.16.5.jar, bunker-down 1-1-0.jar, spark-1.9.1-forge.jar, betterfpsdist-1.2.jar, flywheel-1.16-0.2.5.jar, curios-forge-1.16.5-4.1.0.0.jar, mobsunscreen-1.16.4-2.1.3.jar, ToughAsNails-1.16.5-4.1.0.9-universal.jar, backpacked-forge-1.16.5-2.1.13.jar, lostcities-1.16-4.0.12-beta.jar, obfuscate-0.6.3-1.16.5.jar, fancymenu_forge_2.14.9_MC_1.16.2-1.16.5.jar, Atlas-Lib-1.16.5-1.1.3c.jar, coroutil-forge-1.16.5-1.3.6.jar, bloodandgore-1.16.5-v1.1.jar, architectury-1.32.68.jar, antiqueatlas-6.2.4-forge-mc1.16.5.jar, ferritecore-2.1.1-forge.jar, cloth-config-4.17.132-forge.jar, enhancedcelestials-2.0.9-1.16.5.jar, dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar, EnhancedAI-1.2.3-mc1.16.5.jar, BetterF3-1.5.0-Forge-1.16.5.jar, TacCraft [Forge 1.16.5] 0.1.jar, improvedmobs-1.16.5-1.10.13.jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, geckolib-forge-1.16.5-3.0.106.jar, fm_audio_extension_forge_1.1.1_MC_1.16.2-1.16.5.jar, bukkit, MyServerIsCompatible-1.16.5-1.0.jar
-[19:16:39] [main/INFO] [ModernFix/]: Invalidating pack caches
-[19:16:40] [Worker-Main-3/INFO] [me.xjqsh.lesraisinsadd.LesRaisinsTaCAddon/]: Start loading custom data...
-[19:16:40] [Worker-Main-3/INFO] [tac/]: YO_DATA_GUN
-[19:16:40] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
-[19:16:40] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
-[19:16:40] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
-[19:16:40] [Worker-Main-2/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
-[19:16:40] [Worker-Main-2/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldnt load advancement {0}: {1}
-[19:16:40] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1,166 recipes
-[19:16:40] [main/ERROR] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: This world was saved with mod vehicle which appears to be missing, things may not work well
-[19:16:41] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
-	vehicle:blaze_juice: 1133
-	vehicle:ender_sap: 1132
-	vehicle:fluid_extractor: 1121
-	vehicle:fluid_mixer: 1122
-	vehicle:fluid_pipe: 1124
-	vehicle:fluid_pump: 1125
-	vehicle:fuel_drum: 1126
-	vehicle:fuelium: 1131
-	vehicle:gas_pump: 1123
-	vehicle:industrial_fuel_drum: 1127
-	vehicle:jack: 1130
-	vehicle:traffic_cone: 1120
-	vehicle:vehicle_crate: 1129
-	vehicle:workstation: 1128
-
-[19:16:41] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
-	vehicle:aluminum_boat: 174
-	vehicle:atv: 166
-	vehicle:bumper_car: 171
-	vehicle:dirt_bike: 183
-	vehicle:dune_buggy: 167
-	vehicle:fertilizer: 188
-	vehicle:fluid_trailer: 186
-	vehicle:go_kart: 168
-	vehicle:golf_cart: 179
-	vehicle:jack: 189
-	vehicle:jet_ski: 172
-	vehicle:lawn_mower: 176
-	vehicle:mini_bike: 170
-	vehicle:mini_bus: 182
-	vehicle:moped: 177
-	vehicle:off_roader: 180
-	vehicle:seeder: 187
-	vehicle:shopping_cart: 169
-	vehicle:smart_car: 175
-	vehicle:speed_boat: 173
-	vehicle:sports_plane: 178
-	vehicle:storage_trailer: 185
-	vehicle:tractor: 181
-	vehicle:vehicle_trailer: 184
-
-[19:16:41] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:fluid
-	vehicle:blaze_juice: 9
-	vehicle:ender_sap: 7
-	vehicle:flowing_blaze_juice: 10
-	vehicle:flowing_ender_sap: 8
-	vehicle:flowing_fuelium: 6
-	vehicle:fuelium: 5
-
-[19:16:41] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
-	vehicle:all_terrain_wheel: 1838
-	vehicle:blaze_juice_bucket: 1863
-	vehicle:diamond_electric_engine: 1854
-	vehicle:diamond_large_engine: 1849
-	vehicle:diamond_small_engine: 1844
-	vehicle:ender_sap_bucket: 1862
-	vehicle:fluid_extractor: 1865
-	vehicle:fluid_mixer: 1866
-	vehicle:fluid_pipe: 1868
-	vehicle:fluid_pump: 1869
-	vehicle:fuel_drum: 1870
-	vehicle:fuelium_bucket: 1861
-	vehicle:gas_pump: 1867
-	vehicle:gold_electric_engine: 1853
-	vehicle:gold_large_engine: 1848
-	vehicle:gold_small_engine: 1843
-	vehicle:hammer: 1859
-	vehicle:industrial_fuel_drum: 1871
-	vehicle:industrial_jerry_can: 1857
-	vehicle:iron_electric_engine: 1852
-	vehicle:iron_large_engine: 1847
-	vehicle:iron_small_engine: 1842
-	vehicle:jack: 1874
-	vehicle:jerry_can: 1856
-	vehicle:key: 1860
-	vehicle:off_road_wheel: 1836
-	vehicle:panel: 1832
-	vehicle:plastic_wheel: 1839
-	vehicle:racing_wheel: 1835
-	vehicle:snow_wheel: 1837
-	vehicle:sports_wheel: 1834
-	vehicle:spray_can: 1855
-	vehicle:standard_wheel: 1833
-	vehicle:stone_electric_engine: 1851
-	vehicle:stone_large_engine: 1846
-	vehicle:stone_small_engine: 1841
-	vehicle:traffic_cone: 1864
-	vehicle:vehicle_crate: 1873
-	vehicle:wood_electric_engine: 1850
-	vehicle:wood_large_engine: 1845
-	vehicle:wood_small_engine: 1840
-	vehicle:workstation: 1872
-	vehicle:wrench: 1858
-
-[19:16:41] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
-	vehicle:air_wrench_gun: 1086
-	vehicle:atv_engine_mono: 1058
-	vehicle:atv_engine_stereo: 1059
-	vehicle:bonk: 1064
-	vehicle:boost_pad: 1074
-	vehicle:dirt_bike_engine_mono: 1093
-	vehicle:dirt_bike_engine_stereo: 1094
-	vehicle:electric_engine_mono: 1062
-	vehicle:electric_engine_stereo: 1063
-	vehicle:fuel_port_2_close: 1079
-	vehicle:fuel_port_2_open: 1078
-	vehicle:fuel_port_close: 1077
-	vehicle:fuel_port_open: 1076
-	vehicle:go_kart_engine_mono: 1060
-	vehicle:go_kart_engine_stereo: 1061
-	vehicle:horn_mono: 1056
-	vehicle:horn_stereo: 1057
-	vehicle:jack_down: 1082
-	vehicle:jack_up: 1081
-	vehicle:liquid_glug: 1075
-	vehicle:mini_bus_engine_mono: 1091
-	vehicle:mini_bus_engine_stereo: 1092
-	vehicle:moped_engine_mono: 1070
-	vehicle:moped_engine_stereo: 1071
-	vehicle:nozzle_pick_up: 1089
-	vehicle:nozzle_put_down: 1090
-	vehicle:pick_up_vehicle: 1065
-	vehicle:speed_boat_engine_mono: 1066
-	vehicle:speed_boat_engine_stereo: 1067
-	vehicle:sports_plane_engine_mono: 1072
-	vehicle:sports_plane_engine_stereo: 1073
-	vehicle:spray_can_shake: 1069
-	vehicle:spray_can_spray: 1068
-	vehicle:tractor_engine_mono: 1087
-	vehicle:tractor_engine_stereo: 1088
-	vehicle:vehicle_crate_panel_land: 1080
-	vehicle:vehicle_destroyed: 1084
-	vehicle:vehicle_impact: 1083
-	vehicle:vehicle_thud: 1085
-
-[19:16:41] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
-
-There are 126 missing entries in this save.
-If you continue the missing entries will get removed.
-A world backup will be automatically created in your saves directory.
-
-
-[19:16:41] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
-    vehicle:air_wrench_gun
-    vehicle:atv_engine_mono
-    vehicle:atv_engine_stereo
-    vehicle:bonk
-    vehicle:boost_pad
-    vehicle:dirt_bike_engine_mono
-    vehicle:dirt_bike_engine_stereo
-    vehicle:electric_engine_mono
-    vehicle:electric_engine_stereo
-    vehicle:fuel_port_2_close
-    vehicle:fuel_port_2_open
-    vehicle:fuel_port_close
-    vehicle:fuel_port_open
-    vehicle:go_kart_engine_mono
-    vehicle:go_kart_engine_stereo
-    vehicle:horn_mono
-    vehicle:horn_stereo
-    vehicle:jack_down
-    vehicle:jack_up
-    vehicle:liquid_glug
-    vehicle:mini_bus_engine_mono
-    vehicle:mini_bus_engine_stereo
-    vehicle:moped_engine_mono
-    vehicle:moped_engine_stereo
-    vehicle:nozzle_pick_up
-    vehicle:nozzle_put_down
-    vehicle:pick_up_vehicle
-    vehicle:speed_boat_engine_mono
-    vehicle:speed_boat_engine_stereo
-    vehicle:sports_plane_engine_mono
-    vehicle:sports_plane_engine_stereo
-    vehicle:spray_can_shake
-    vehicle:spray_can_spray
-    vehicle:tractor_engine_mono
-    vehicle:tractor_engine_stereo
-    vehicle:vehicle_crate_panel_land
-    vehicle:vehicle_destroyed
-    vehicle:vehicle_impact
-    vehicle:vehicle_thud
-
-Missing minecraft:item:
-    vehicle:all_terrain_wheel
-    vehicle:blaze_juice_bucket
-    vehicle:diamond_electric_engine
-    vehicle:diamond_large_engine
-    vehicle:diamond_small_engine
-    vehicle:ender_sap_bucket
-    vehicle:fluid_extractor
-    vehicle:fluid_mixer
-    vehicle:fluid_pipe
-    vehicle:fluid_pump
-    vehicle:fuel_drum
-    vehicle:fuelium_bucket
-    vehicle:gas_pump
-    vehicle:gold_electric_engine
-    vehicle:gold_large_engine
-    vehicle:gold_small_engine
-    vehicle:hammer
-    vehicle:industrial_fuel_drum
-    vehicle:industrial_jerry_can
-    vehicle:iron_electric_engine
-    vehicle:iron_large_engine
-    vehicle:iron_small_engine
-    vehicle:jack
-    vehicle:jerry_can
-    vehicle:key
-    vehicle:off_road_wheel
-    vehicle:panel
-    vehicle:plastic_wheel
-    vehicle:racing_wheel
-    vehicle:snow_wheel
-    vehicle:sports_wheel
-    vehicle:spray_can
-    vehicle:standard_wheel
-    vehicle:stone_electric_engine
-    vehicle:stone_large_engine
-    vehicle:stone_small_engine
-    vehicle:traffic_cone
-    vehicle:vehicle_crate
-    vehicle:wood_electric_engine
-    vehicle:wood_large_engine
-    vehicle:wood_small_engine
-    vehicle:workstation
-    vehicle:wrench
-
-Missing minecraft:block:
-    vehicle:blaze_juice
-    vehicle:ender_sap
-    vehicle:fluid_extractor
-    vehicle:fluid_mixer
-    vehicle:fluid_pipe
-    vehicle:fluid_pump
-    vehicle:fuel_drum
-    vehicle:fuelium
-    vehicle:gas_pump
-    vehicle:industrial_fuel_drum
-    vehicle:jack
-    vehicle:traffic_cone
-    vehicle:vehicle_crate
-    vehicle:workstation
-
-Missing minecraft:fluid:
-    vehicle:blaze_juice
-    vehicle:ender_sap
-    vehicle:flowing_blaze_juice
-    vehicle:flowing_ender_sap
-    vehicle:flowing_fuelium
-    vehicle:fuelium
-
-Missing minecraft:entity_type:
-    vehicle:aluminum_boat
-    vehicle:atv
-    vehicle:bumper_car
-    vehicle:dirt_bike
-    vehicle:dune_buggy
-    vehicle:fertilizer
-    vehicle:fluid_trailer
-    vehicle:go_kart
-    vehicle:golf_cart
-    vehicle:jack
-    vehicle:jet_ski
-    vehicle:lawn_mower
-    vehicle:mini_bike
-    vehicle:mini_bus
-    vehicle:moped
-    vehicle:off_roader
-    vehicle:seeder
-    vehicle:shopping_cart
-    vehicle:smart_car
-    vehicle:speed_boat
-    vehicle:sports_plane
-    vehicle:storage_trailer
-    vehicle:tractor
-    vehicle:vehicle_trailer
-
-
-[19:16:41] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
-[19:16:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[19:16:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19:16:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19:16:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19:16:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
-[19:16:41] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[19:16:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:16:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19:16:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:16:41] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:16:41] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-1240 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
-[19:16:42] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[19:16:42] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[19:16:42] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
-[19:16:42] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
-[19:16:43] [Server thread/WARN] [/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[19:16:47] [Server thread/WARN] [Minecraft/]: Legacy plugin InvSee v1.0 does not specify an api-version.
-[19:16:47] [Server thread/INFO] [de.danielderechte.invsee.main.InvSee/]: [InvSee] Loading InvSee v1.0
-[19:16:47] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Loading SkinsRestorer v15.4.4
-[19:16:47] [Server thread/INFO] [me.neznamy.tab.platforms.bukkit.BukkitTAB/]: [TAB] Loading TAB v5.0.1
-[19:16:47] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[19:16:49] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[19:16:50] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
-[19:16:52] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[19:16:52] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[19:16:52] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[19:16:52] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[19:16:52] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[19:16:52] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[19:16:52] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[19:16:52] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[19:16:52] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[19:16:52] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[19:16:52] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[19:16:52] [Server thread/INFO] [ModernFix/]: Starting locating executor service with thread pool size of 1
-[19:16:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19:16:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19:16:54] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[19:16:54] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 1,987 ms
-[19:16:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
-[19:16:55] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[19:16:57] [Worker-Main-1/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
-[19:16:58] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
-[19:16:58] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
-[19:16:59] [Worker-Main-1/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
-[19:16:59] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 4,882 ms
-[19:16:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
-[19:16:59] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[19:17:00] [Worker-Main-1/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[19:17:00] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 892 ms
-[19:17:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension lostcities:lostcity
-[19:17:01] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[19:17:01] [Worker-Main-1/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[19:17:03] [Worker-Main-2/INFO] [antiqueatlas/]: Created new marker #5"gui.antiqueatlas.marker.village"@(12, 113)
-[19:17:04] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
-[19:17:05] [Worker-Main-1/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
-[19:17:06] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 87%
-[19:17:06] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
-[19:17:07] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
-[19:17:08] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
-[19:17:08] [Worker-Main-1/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
-[19:17:09] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 8,890 ms
-[19:17:09] [Server thread/INFO] [de.danielderechte.invsee.main.InvSee/]: [InvSee] Enabling InvSee v1.0
-[19:17:09] [Server thread/INFO] [/]: [InvSee] The plugin is loading...
-[19:17:09] [Server thread/INFO] [/]: [InvSee] Plugin loaded succesfully.
-[19:17:09] [Server thread/INFO] [/]: [InvSee] Version: 2.0.1
-[19:17:09] [Server thread/INFO] [/]: [InvSee] Developer: DanielDerEchte
-[19:17:09] [Server thread/INFO] [/]: [InvSee] Check here for Updates: https://www.spigotmc.org/resources/invsee-plugin-with-config-1-10-1-16-1.74292/history
-[19:17:09] [Server thread/INFO] [/]: [InvSee] You can get support here: https://discord.gg/nFpdJ5XWfG
-[19:17:09] [Server thread/INFO] [me.neznamy.tab.platforms.bukkit.BukkitTAB/]: [TAB] Enabling TAB v5.0.1
-[19:17:09] [Server thread/INFO] [/]: [TAB] Loaded NMS hook in 176ms
-[19:17:10] [Server thread/INFO] [/]: [TAB] §xEnabled in 1089ms
-[19:17:10] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[19:17:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.580s)! For help, type "help"
-[19:17:10] [Server thread/WARN] [ModernFix/]: Dedicated server took 57.627 seconds to load
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[19:17:11] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[19:17:20] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Sushyss is b1ef8f90-740e-3946-8cc3-d89284d3ff35
-[19:17:21] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 79 mods : zombie_extreme, saturn, auudio, hitindication, opotato, incontrol, nerb, entitycollisionfpsfix, connectivity, dynamiclights, tac, lesraisinsadd, insanelib, mr_mcoptimizer, totaldarkness, crafte_string, clumps, fastasyncworldsave, enhancedvisuals, modernfix, jei, configured, zombieawareness, myserveriscompatible, badmobs, farsightedmobs, lazydfu, wegotrunnners, hordes, dynview, fpsreducer, firstaid, forge, konkrete, embeddium, rubidium, minecraft, tenshilib, smoothchunk, ambientsounds, biomesoplenty, vtaw_mw, creativecore, bunker_down, spark, betterfpsdist, flywheel, curios, oculus, mobsunscreen, bocchium, performant, toughasnails, entityculling, backpacked, lostcities, obfuscate, fancymenu, drippyloadingscreen, atlaslib, embeddiumextras, coroutil, blood_and_gore, architectury, antiqueatlas, ferritecore, cloth-config, enhancedcelestials, dynamic_fps, enhancedai, betterf3, pretaccraft, textrues_embeddium_options, reeses_sodium_options, improvedmobs, playerrevive, geckolib3, fmextension_audio, presencefootsteps
-[19:17:22] [Server thread/WARN] [net.minecraft.stats.ServerStatisticsManager/]: Invalid statistic in ./world/stats/b1ef8f90-740e-3946-8cc3-d89284d3ff35.json: Dont know what {1} is
-[19:17:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Sushyss[/127.140.55.136:35855] logged in with entity id 166 at (-1,839.318, 68, 65.435)
-[19:17:22] [Server thread/INFO] [tac/]: PENDING
-[19:17:22] [TAB Processing Thread/INFO] [/]: [TAB] [WARN] Player Sushyss's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:17:22] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Sushyss
-[19:17:22] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
-[19:17:22] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
-[19:17:22] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
-[19:17:22] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Sushyss
-[19:17:25] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 9ms increasing chunk view distance to: 6
-[19:17:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss issued server command: /time set day
-[19:17:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Sushyss: Set the time to 1000]
-[19:17:40] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 13ms increasing chunk view distance to: 7
-[19:17:55] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 8
-[19:18:10] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 9
-[19:18:25] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 10
-[19:18:40] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 6ms increasing chunk view distance to: 11
-[19:18:55] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 12
-[19:19:10] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 7ms increasing chunk view distance to: 13
-[19:19:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Sushyss lost connection: Disconnected
-[19:19:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Sushyss left the game
-[19:22:10] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[04:42:34] [main/INFO] [STDOUT/]: Update in check...
+[04:42:34] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
+[04:42:34] [main/INFO] [STDOUT/]: The latest Mohist version is 1.16.5-1243 but you have 1.16.5-1240. The latest version has been built on 2024-10-15 09:56:20. You should update to fix recent bugs !
+[04:42:34] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 1240, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[04:42:34] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 17.0.13 by Ubuntu
+[04:42:34] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[04:42:34] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/SMPZ-PLUS/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[04:42:37] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[04:42:37] [main/INFO] [opotato/]: Mod Atlas-Lib-1.16.5-1.1.3c.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod BadMobs-1.16.5-9.1.9.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod BetterF3-1.5.0-Forge-1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod BiomesOPlenty-1.16.5-13.1.0.488-universal.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod Clumps-6.0.0.28.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod Crafteable_string_A.O.T-1.16.5-1.2.7.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod CreativeCore_v2.2.1_mc1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod EnhancedAI-1.2.3-mc1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod EnhancedVisuals_v1.3.32_mc1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod FpsReducer-forge-1.24-mc1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod InsaneLib-1.4.2-mc1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod MyServerIsCompatible-1.16.5-1.0.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod Optimizer 1.1.0 (1.13-1.21.1).jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod PlayerRevive_v2.0.0-pre04_mc1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod TacCraft [Forge 1.16.5] 0.1.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod TenshiLib-1.16.3-1.3.0.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod The-Hordes-1.16.5-1.1.5c.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod ToughAsNails-1.16.5-4.1.0.9-universal.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod WegotRunners0.3a.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod Zombie Extreme 1.16.5 1.8.2.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod antiqueatlas-6.2.4-forge-mc1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod architectury-1.32.68.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod auudio_forge_1.0.3-1_MC_1.16.2-1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod backpacked-forge-1.16.5-2.1.13.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod betterfpsdist-1.2.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod bloodandgore-1.16.5-v1.1.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod bunker-down 1-1-0.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod cloth-config-4.17.132-forge.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod configured-1.5.4-1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod coroutil-forge-1.16.5-1.3.6.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod curios-forge-1.16.5-4.1.0.0.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod dynamiclights-1.16.5.1.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod dynviewdist-2.0.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod embeddium-0.3.18+mc1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod enhancedcelestials-2.0.9-1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod entitycollisionfpsfix-1.16-1.0.1.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod fancymenu_forge_2.14.9_MC_1.16.2-1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod farsightedmobs-forge-1.16-1.1.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod fastasyncworldsave-1.16.5-1.4.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod ferritecore-2.1.1-forge.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod firstaid-1.9.7.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod flywheel-1.16-0.2.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod fm_audio_extension_forge_1.1.1_MC_1.16.2-1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod geckolib-forge-1.16.5-3.0.106.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod improvedmobs-1.16.5-1.10.13.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod incontrol-1.16-5.2.12.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod jei-1.16.5-7.8.0.1009.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod konkrete_forge_1.6.1_MC_1.16.2-1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod lazydfu-0.1.3.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod lesraisinsadd-0.1.4.7.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod lostcities-1.16-4.0.12-beta.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod mobsunscreen-1.16.4-2.1.3.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod modernfix-forge-5.18.0+mc1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod mohist-1.16.5-1240-server.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod mohist-1.16.5-1240-universal.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod nerb-1.16.5-0.3.1-FORGE.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod obfuscate-0.6.3-1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod opotato-1.16.5-2.2.7.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod saturn-mc1.16.5-0.0.3.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod smoothchunk1.16.5-2.0.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod spark-1.9.1-forge.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod tac-release-0.3.14.2-1.16.5.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Mod zombieawareness-1.16.5-1.12.jar loaded!
+[04:42:37] [main/INFO] [opotato/]: Loaded configuration file for Opotato: 37 options available, 0 override(s) found
+[04:42:37] [main/WARN] [mixin/]: Reference map 'nerb-forge-refmap.json' for nerb.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:42:37] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.16.5: 89 options available, 1 override(s) found
+[04:42:37] [main/WARN] [ModernFix/]: Option 'mixin.perf.dynamic_resources' overriden (by user configuration) to 'true'
+[04:42:37] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[04:42:37] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[04:42:38] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 95 options available, 0 override(s) found
+[04:42:38] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:42:38] [main/WARN] [mixin/]: Reference map 'antiqueatlas-forge-refmap.json' for antiqueatlas.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:42:39] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via org.embeddedt.modernfix.forge.shadow.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[04:42:40] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: ModernFix reached bootstrap stage (9.465 s after launch)
+[04:42:41] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[04:42:44] [main/INFO] [net.minecraft.util.registry.Bootstrap/]: Vanilla bootstrap took 3456 milliseconds
+[04:42:44] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `death`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[04:42:44] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `playerrevive` for name `revived`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[04:42:44] [modloading-worker-0/WARN] [auudio/Auudio/]: WARNING: Auudio is a client mod and has no effect when loaded on a server!
+[04:42:44] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[04:42:44] [modloading-worker-0/INFO] [The Hordes/]: Trying to load common config
+[04:42:44] [modloading-worker-0/INFO] [The Hordes/]: Trying to load client config
+[04:42:44] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[04:42:44] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[04:42:44] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[04:42:44] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[04:42:44] [modloading-worker-0/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
+[04:42:44] [modloading-worker-0/INFO] [fancymenu/FancyMenu/]: [FANCYMENU] Loading v2.14.9 in server-side mode!
+[04:42:45] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
+[04:42:45] [modloading-worker-0/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
+[04:42:45] [modloading-worker-0/WARN] [fmaudio/FmAudio/]: WARNING: FancyMenu Audio Extension is a client mod and has no effect when loaded on a server!
+[04:42:45] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[04:42:45] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[04:42:46] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `poison`, expected `firstaid`. This could be a intended override, but in most cases indicates a broken mod.
+[04:42:46] [main/INFO] [firstaid/]: Don't worry, the minecraft poison override IS intended.
+[04:42:46] [main/INFO] [corgitaco.enhancedcelestials.Main/]: enhancedcelestials: Sounds registered!
+[04:42:47] [main/WARN] [insane96mcp.insanelib.InsaneLib/]: quark:forgotten id seems to not exist
+[04:42:47] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
+[04:42:47] [modloading-worker-0/INFO] [incontrol/]: Enabling support for Lost Cities
+[04:42:47] [modloading-worker-0/INFO] [incontrol/]: Reading rules from spawn.json
+[04:42:47] [modloading-worker-0/INFO] [com.dynamic_view.DynView/]: Zooming chunks initiated!
+[04:42:47] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[04:42:47] [modloading-worker-0/INFO] [com.betterfpsdist.BetterfpsdistMod/]: betterfpsdist mod initialized
+[04:42:47] [modloading-worker-0/INFO] [incontrol/]: Reading rules from summonaid.json
+[04:42:47] [modloading-worker-0/INFO] [incontrol/]: Reading rules from potentialspawn.json
+[04:42:47] [modloading-worker-0/INFO] [incontrol/]: Reading rules from loot.json
+[04:42:47] [modloading-worker-0/INFO] [incontrol/]: Reading rules from experience.json
+[04:42:47] [modloading-worker-0/INFO] [incontrol/]: Reading rules from phases.json
+[04:42:47] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[04:42:47] [modloading-worker-0/INFO] [incontrol/]: Reading rules from spawner.json
+[04:42:47] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[04:42:47] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[04:42:47] [modloading-worker-0/INFO] [The Hordes/]: Trying to read spawn table from config
+[04:42:47] [modloading-worker-0/INFO] [The Hordes/]: Loaded entity minecraft:zombie-30-0-20 as entity.minecraft.zombie with weight 30, min day 0 and max day 20
+[04:42:47] [modloading-worker-0/INFO] [The Hordes/]: Loaded entity minecraft:zombie_villager-3-0-20 as entity.minecraft.zombie_villager with weight 3, min day 0 and max day 20
+[04:42:47] [modloading-worker-0/INFO] [The Hordes/]: Loaded entity minecraft:husk-30-30-0 as entity.minecraft.husk with weight 30, min day 30 and max day 0
+[04:42:47] [modloading-worker-0/INFO] [The Hordes/]: Loaded entity minecraft:drowned{HandItems:[{id:trident,Count:1}]}-1-30-0 as entity.minecraft.drowned with weight 1, min day 30 and max day 0
+[04:42:47] [modloading-worker-0/INFO] [The Hordes/]: Trying to read conversion table from config
+[04:42:47] [modloading-worker-0/INFO] [The Hordes/]: Loaded conversion minecraft:horse-65-minecraft:zombie_horse as entity.minecraft.horse with infection chance 65, and converts to entity.minecraft.zombie_horse
+[04:42:48] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:42:49] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, Zombie Extreme 1.16.5 1.8.2.jar, saturn-mc1.16.5-0.0.3.jar, auudio_forge_1.0.3-1_MC_1.16.2-1.16.5.jar, opotato-1.16.5-2.2.7.jar, incontrol-1.16-5.2.12.jar, nerb-1.16.5-0.3.1-FORGE.jar, entitycollisionfpsfix-1.16-1.0.1.jar, dynamiclights-1.16.5.1.jar, tac-release-0.3.14.2-1.16.5.jar, lesraisinsadd-0.1.4.7.jar, InsaneLib-1.4.2-mc1.16.5.jar, Optimizer 1.1.0 (1.13-1.21.1).jar, Crafteable_string_A.O.T-1.16.5-1.2.7.jar, Clumps-6.0.0.28.jar, fastasyncworldsave-1.16.5-1.4.jar, EnhancedVisuals_v1.3.32_mc1.16.5.jar, modernfix-forge-5.18.0+mc1.16.5.jar, jei-1.16.5-7.8.0.1009.jar, configured-1.5.4-1.16.5.jar, zombieawareness-1.16.5-1.12.jar, BadMobs-1.16.5-9.1.9.jar, farsightedmobs-forge-1.16-1.1.jar, lazydfu-0.1.3.jar, WegotRunners0.3a.jar, The-Hordes-1.16.5-1.1.5c.jar, dynviewdist-2.0.jar, FpsReducer-forge-1.24-mc1.16.5.jar, firstaid-1.9.7.jar, mohist-1.16.5-1240-universal.jar, konkrete_forge_1.6.1_MC_1.16.2-1.16.5.jar, embeddium-0.3.18+mc1.16.5.jar, TenshiLib-1.16.3-1.3.0.jar, smoothchunk1.16.5-2.0.jar, BiomesOPlenty-1.16.5-13.1.0.488-universal.jar, CreativeCore_v2.2.1_mc1.16.5.jar, bunker-down 1-1-0.jar, spark-1.9.1-forge.jar, betterfpsdist-1.2.jar, flywheel-1.16-0.2.5.jar, curios-forge-1.16.5-4.1.0.0.jar, mobsunscreen-1.16.4-2.1.3.jar, ToughAsNails-1.16.5-4.1.0.9-universal.jar, backpacked-forge-1.16.5-2.1.13.jar, lostcities-1.16-4.0.12-beta.jar, obfuscate-0.6.3-1.16.5.jar, fancymenu_forge_2.14.9_MC_1.16.2-1.16.5.jar, Atlas-Lib-1.16.5-1.1.3c.jar, coroutil-forge-1.16.5-1.3.6.jar, bloodandgore-1.16.5-v1.1.jar, architectury-1.32.68.jar, antiqueatlas-6.2.4-forge-mc1.16.5.jar, ferritecore-2.1.1-forge.jar, cloth-config-4.17.132-forge.jar, enhancedcelestials-2.0.9-1.16.5.jar, dynamic-fps-3.4.3+minecraft-1.16.5-forge.jar, EnhancedAI-1.2.3-mc1.16.5.jar, BetterF3-1.5.0-Forge-1.16.5.jar, TacCraft [Forge 1.16.5] 0.1.jar, improvedmobs-1.16.5-1.10.13.jar, PlayerRevive_v2.0.0-pre04_mc1.16.5.jar, geckolib-forge-1.16.5-3.0.106.jar, fm_audio_extension_forge_1.1.1_MC_1.16.2-1.16.5.jar, bukkit, MyServerIsCompatible-1.16.5-1.0.jar
+[04:42:49] [main/INFO] [ModernFix/]: Invalidating pack caches
+[04:42:49] [Worker-Main-3/INFO] [me.xjqsh.lesraisinsadd.LesRaisinsTaCAddon/]: Start loading custom data...
+[04:42:49] [Worker-Main-3/INFO] [tac/]: YO_DATA_GUN
+[04:42:49] [Worker-Main-3/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
+[04:42:49] [Worker-Main-3/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
+[04:42:49] [Worker-Main-3/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
+[04:42:49] [Worker-Main-3/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
+[04:42:50] [Worker-Main-3/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldnt load advancement {0}: {1}
+[04:42:50] [Worker-Main-3/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1,166 recipes
+[04:42:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[04:42:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04:42:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04:42:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04:42:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
+[04:42:50] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[04:42:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:42:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04:42:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:42:51] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:42:51] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-1240 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
+[04:42:51] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[04:42:51] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[04:42:51] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[04:42:52] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
+[04:42:52] [Server thread/WARN] [/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[04:42:56] [Server thread/WARN] [Minecraft/]: Legacy plugin InvSee v1.0 does not specify an api-version.
+[04:42:56] [Server thread/INFO] [de.danielderechte.invsee.main.InvSee/]: [InvSee] Loading InvSee v1.0
+[04:42:56] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Loading SkinsRestorer v15.4.4
+[04:42:56] [Server thread/INFO] [me.neznamy.tab.platforms.bukkit.BukkitTAB/]: [TAB] Loading TAB v5.0.1
+[04:42:56] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[04:42:58] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[04:42:59] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[04:43:01] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[04:43:01] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[04:43:01] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[04:43:01] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[04:43:01] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[04:43:01] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[04:43:01] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[04:43:01] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[04:43:01] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[04:43:01] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[04:43:01] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[04:43:01] [Server thread/INFO] [ModernFix/]: Starting locating executor service with thread pool size of 1
+[04:43:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04:43:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04:43:03] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04:43:04] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[04:43:04] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2,088 ms
+[04:43:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_nether
+[04:43:04] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04:43:05] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[04:43:07] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 85%
+[04:43:08] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[04:43:08] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[04:43:09] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[04:43:09] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 5,135 ms
+[04:43:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
+[04:43:09] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04:43:09] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[04:43:10] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 928 ms
+[04:43:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension lostcities:lostcity
+[04:43:10] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[04:43:11] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[04:43:14] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
+[04:43:15] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[04:43:16] [Worker-Main-2/INFO] [antiqueatlas/]: Created new marker #6"gui.antiqueatlas.marker.village"@(12, 113)
+[04:43:16] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[04:43:16] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
+[04:43:17] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[04:43:17] [Worker-Main-1/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[04:43:18] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 96%
+[04:43:18] [Worker-Main-3/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 99%
+[04:43:18] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 8,541 ms
+[04:43:18] [Server thread/INFO] [de.danielderechte.invsee.main.InvSee/]: [InvSee] Enabling InvSee v1.0
+[04:43:18] [Server thread/INFO] [/]: [InvSee] The plugin is loading...
+[04:43:18] [Server thread/INFO] [/]: [InvSee] Plugin loaded succesfully.
+[04:43:18] [Server thread/INFO] [/]: [InvSee] Version: 2.0.1
+[04:43:18] [Server thread/INFO] [/]: [InvSee] Developer: DanielDerEchte
+[04:43:18] [Server thread/INFO] [/]: [InvSee] Check here for Updates: https://www.spigotmc.org/resources/invsee-plugin-with-config-1-10-1-16-1.74292/history
+[04:43:18] [Server thread/INFO] [/]: [InvSee] You can get support here: https://discord.gg/nFpdJ5XWfG
+[04:43:18] [Server thread/INFO] [me.neznamy.tab.platforms.bukkit.BukkitTAB/]: [TAB] Enabling TAB v5.0.1
+[04:43:19] [Server thread/INFO] [/]: [TAB] Loaded NMS hook in 205ms
+[04:43:20] [Server thread/INFO] [/]: [TAB] §xEnabled in 1060ms
+[04:43:20] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[04:43:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.512s)! For help, type "help"
+[04:43:20] [Server thread/WARN] [ModernFix/]: Dedicated server took 49.633 seconds to load
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[04:43:20] [Craft Scheduler Thread - 2/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[04:48:20] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
